@@ -18,4 +18,4 @@ Este repositorio contiene todas las actividades y exámenes realizados para la a
 
 ## Autor
 
-Alejandro ALmagro
+Alejandro Almagro
