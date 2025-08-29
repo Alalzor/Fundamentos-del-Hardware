@@ -1,0 +1,1091 @@
+
+Equipo
+******
+
+
+Resumen
+-------
+
+-Equipo-
+Procesador		: 13th Gen Intel(R) Core(TM) i9-13900KF
+Memoria		: 3950MB (898MB usados)
+Tipo de equipo		: Virtual (VirtualBox)
+Sistema operativo		: Ubuntu 23.10
+Nombre de usuario		: dislexia (dislexia)
+Fecha/Hora		: sáb 02 dic 2023 11:58:52
+-Pantalla-
+Resolución		: 1280x800 pixels
+Renderizador OpenGL		: (desconocido)
+Proveedor X11		: The X.Org Foundation
+-Dispositivos de audio-
+Adaptador de audio		: ICH - Intel 82801AA-ICH
+-Dispositivos de entrada-
+ Power Button
+ Sleep Button
+ AT Translated Set 2 keyboard
+ Video Bus
+ ImExPS/2 Generic Explorer Mouse
+ VirtualBox USB Tablet
+ VirtualBox mouse integration
+-Impresoras-
+No se encontraron impresoras
+-Discos SCSI-
+VBOX CD-ROM
+ATA VBOX HARDDISK
+
+Sistema operativo
+-----------------
+
+-Versión-
+Núcleo		: Linux 6.5.0-13-generic (x86_64)
+Versión		: #13-Ubuntu SMP PREEMPT_DYNAMIC Fri Nov  3 12:16:05 UTC 2023
+Biblioteca C		: Libreria C GNU / (Ubuntu GLIBC 2.38-1ubuntu6) 2.38
+Distribución		: Ubuntu 23.10
+-Sesión actual-
+Nombre del equipo		: dislexia-1-2
+Nombre de usuario		: dislexia (dislexia)
+Idioma		: es_ES.UTF-8 (es_ES.UTF-8)
+Directorio personal		: /home/dislexia
+-Otras-
+Activo		: 2 minutos
+Promedio de carga		: 0,69, 0,39, 0,15
+Entropía disponible en /dev/random		: 256 bits (promedio)
+
+Módulos del kernel
+-------------------
+
+-Módulos cargados-
+snd_seq_dummy		: ALSA sequencer MIDI-through client
+snd_hrtimer		: ALSA hrtimer backend
+binfmt_misc
+intel_rapl_msr		: Driver for Intel RAPL (Running Average Power Limit) control via MSR interface
+intel_rapl_common		: Intel Runtime Average Power Limit (RAPL) common code
+intel_uncore_frequency_common		: Intel Uncore Frequency Common Module
+snd_intel8x0		: Intel 82801AA,82901AB,i810,i820,i830,i840,i845,MX440; SiS 7012; Ali 5455
+snd_ac97_codec		: Universal interface for Audio Codec &apos;97
+ac97_bus
+crct10dif_pclmul		: T10 DIF CRC calculation accelerated with PCLMULQDQ.
+snd_pcm		: Midlevel PCM code for ALSA.
+snd_seq_midi		: Advanced Linux Sound Architecture sequencer MIDI synth.
+snd_seq_midi_event		: MIDI byte &lt;-&gt; sequencer event coder
+snd_rawmidi		: Midlevel RawMidi code for ALSA.
+polyval_generic		: POLYVAL hash function
+ghash_clmulni_intel		: GHASH hash function, accelerated by PCLMULQDQ-NI
+aesni_intel		: Rijndael (AES) Cipher Algorithm, Intel AES-NI instructions optimized
+crypto_simd
+cryptd		: Software async crypto daemon
+rapl
+snd_seq		: Advanced Linux Sound Architecture sequencer.
+vmwgfx		: Standalone drm driver for the VMware SVGA device
+joydev		: Joystick device interfaces
+drm_ttm_helper		: DRM gem ttm helpers
+snd_seq_device		: ALSA sequencer device management
+snd_timer		: ALSA timer interface
+ttm		: TTM memory manager subsystem (for DRM device)
+snd		: Advanced Linux Sound Architecture driver for soundcards.
+drm_kms_helper		: DRM KMS helper
+soundcore		: Core sound module
+vboxguest		: Oracle VM VirtualBox Guest Additions for Linux Module
+i2c_piix4		: PIIX4 SMBus driver
+input_leds		: Input -&gt; LEDs Bridge
+serio_raw		: Raw serio driver
+mac_hid
+msr		: x86 generic MSR driver
+parport_pc		: PC-style parallel port driver
+ppdev
+lp
+parport
+drm		: DRM bridge infrastructure
+efi_pstore		: EFI variable backend for pstore
+dmi_sysfs		: DMI sysfs support
+ip_tables		: IPv4 packet filter
+x_tables		: {ip,ip6,arp,eb}_tables backend module
+autofs4
+hid_generic		: HID generic driver
+usbhid		: USB HID core driver
+hid
+crc32_pclmul
+ahci		: AHCI SATA low-level driver
+video		: ACPI Video Driver
+e1000		: Intel(R) PRO/1000 Network Driver
+libahci		: Common AHCI SATA low-level routines
+psmouse		: PS/2 mouse driver
+pata_acpi		: SCSI low-level driver for ATA in ACPI mode
+wmi		: ACPI-WMI Mapping Driver
+
+Arranques
+---------
+
+-Arranques-
+Sat Dec 2 11:55		: 6.5.0-13-generic
+Sat Dec 2 11:53		: 6.5.0-13-generic
+Sat Dec 2 11:50		: 6.5.0-13-generic
+
+Idiomas
+-------
+
+-Idiomas disponibles-
+es_AR.utf8		: Spanish locale for Argentina
+es_BO.utf8		: Spanish locale for Bolivia
+es_CL.utf8		: Spanish locale for Chile
+es_CO.utf8		: Spanish locale for Colombia
+es_CR.utf8		: Spanish locale for Costa Rica
+es_CU		: Spanish locale for Cuba
+es_CU.utf8		: Spanish locale for Cuba
+es_DO.utf8		: Spanish locale for Dominican Republic
+es_EC.utf8		: Spanish locale for Ecuador
+es_ES.utf8		: Spanish locale for Spain
+es_GT.utf8		: Spanish locale for Guatemala
+es_HN.utf8		: Spanish locale for Honduras
+es_MX.utf8		: Spanish locale for Mexico
+es_NI.utf8		: Spanish locale for Nicaragua
+es_PA.utf8		: Spanish locale for Panama
+es_PE.utf8		: Spanish locale for Peru
+es_PR.utf8		: Spanish locale for Puerto Rico
+es_PY.utf8		: Spanish locale for Paraguay
+es_SV.utf8		: Spanish locale for El Salvador
+es_US.utf8		: Spanish locale for the USA
+es_UY.utf8		: Spanish locale for Uruguay
+es_VE.utf8		: Spanish locale for Venezuela
+C.utf8		: C locale
+
+Sistemas de archivos
+--------------------
+
+-Sistemas de archivos montados-
+udev	/dev	0,00 % (1,9 GiB of 1,9 GiB)	
+tmpfs	/run	0,36 % (384,5 MiB of 385,8 MiB)	
+/dev/sda2	/	39,66 % (14,7 GiB of 24,4 GiB)	
+tmpfs	/dev/shm	0,00 % (1,9 GiB of 1,9 GiB)	
+tmpfs	/run/lock	0,16 % (5,0 MiB of 5,0 MiB)	
+/dev/loop0	/snap/bare/5	100,00 % (0,0 B of 128,0 KiB)	
+/dev/loop1	/snap/core22/864	100,00 % (0,0 B of 74,0 MiB)	
+/dev/loop2	/snap/firefox/3216	100,00 % (0,0 B of 240,6 MiB)	
+/dev/loop3	/snap/firmware-updater/109	100,00 % (0,0 B of 11,2 MiB)	
+/dev/loop4	/snap/gtk-common-themes/1535	100,00 % (0,0 B of 91,8 MiB)	
+/dev/loop6	/snap/snap-store/1046	100,00 % (0,0 B of 10,6 MiB)	
+/dev/loop5	/snap/gnome-42-2204/141	100,00 % (0,0 B of 497,0 MiB)	
+/dev/loop7	/snap/snapd/20290	100,00 % (0,0 B of 40,9 MiB)	
+/dev/sda2	/var/snap/firefox/common/host-hunspell	39,66 % (14,7 GiB of 24,4 GiB)	
+/dev/loop8	/snap/snapd-desktop-integration/83	100,00 % (0,0 B of 512,0 KiB)	
+tmpfs	/run/snapd/ns	0,36 % (384,5 MiB of 385,8 MiB)	
+tmpfs	/run/user/1000	0,02 % (385,7 MiB of 385,8 MiB)	
+
+Pantalla
+--------
+
+-Pantalla-
+Resolución		: 1280x800 pixels
+Proveedor		: The X.Org Foundation
+Versión		: 1.23.2
+Current Display Name		: :0
+-Monitores-
+Monitor 0		: 1280x800 pixels
+-OpenGL (3D)-
+Proveedor		: (desconocido)
+Renderizador		: (desconocido)
+Versión		: (desconocido)
+Renderizado Directo		: _No
+-Extensiones-
+Composite
+DAMAGE
+DOUBLE-BUFFER
+GLX
+Generic Event Extension
+MIT-SHM
+Present
+RANDR
+RECORD
+RENDER
+SHAPE
+SYNC
+X-Resource
+XC-MISC
+XFIXES
+XFree86-VidModeExtension
+XINERAMA
+XInputExtension
+XKEYBOARD
+XTEST
+XVideo
+XWAYLAND
+default screen number:    0
+
+Variables de entorno
+--------------------
+
+-Variables de entorno-
+HOME		: /home/dislexia
+LANG		: es_ES.UTF-8
+LOGNAME		: dislexia
+PATH		: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin
+SHELL		: /bin/bash
+SYSTEMD_EXEC_PID		: 1697
+USER		: dislexia
+XDG_RUNTIME_DIR		: /run/user/1000
+GTK_MODULES		: gail:atk-bridge
+QT_ACCESSIBILITY		: 1
+XDG_DATA_DIRS		: /usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+DBUS_SESSION_BUS_ADDRESS		: unix:path=/run/user/1000/bus
+DEBUGINFOD_URLS		: https://debuginfod.ubuntu.com 
+DESKTOP_SESSION		: ubuntu
+GDMSESSION		: ubuntu
+GNOME_DESKTOP_SESSION_ID		: this-is-deprecated
+GNOME_SHELL_SESSION_MODE		: ubuntu
+IM_CONFIG_PHASE		: 1
+PWD		: /home/dislexia
+QT_IM_MODULE		: ibus
+SESSION_MANAGER		: local/dislexia-1-2:@/tmp/.ICE-unix/1640,unix/dislexia-1-2:/tmp/.ICE-unix/1640
+SHLVL		: 0
+SSH_AGENT_LAUNCHER		: openssh
+SSH_AUTH_SOCK		: /run/user/1000/keyring/ssh
+USERNAME		: dislexia
+XDG_CONFIG_DIRS		: /etc/xdg/xdg-ubuntu:/etc/xdg
+XDG_CURRENT_DESKTOP		: ubuntu:GNOME
+XDG_MENU_PREFIX		: gnome-
+XDG_SESSION_CLASS		: user
+XDG_SESSION_DESKTOP		: ubuntu
+XDG_SESSION_TYPE		: wayland
+XMODIFIERS		: @im=ibus
+_		: /usr/bin/gnome-session
+MANAGERPID		: 1423
+INVOCATION_ID		: 16537e9a6de14861933fd31ab3de8a9d
+JOURNAL_STREAM		: 8:23854
+GJS_DEBUG_OUTPUT		: stderr
+GJS_DEBUG_TOPICS		: JS ERROR;JS LOG
+GNOME_SETUP_DISPLAY		: :1
+DISPLAY		: :0
+XAUTHORITY		: /run/user/1000/.mutter-Xwaylandauth.UQ1HF2
+WAYLAND_DISPLAY		: wayland-0
+GIO_LAUNCHED_DESKTOP_FILE		: /usr/share/applications/hardinfo.desktop
+XDG_ACTIVATION_TOKEN		: gnome-shell/Informacion y Rendimiento del Sistema/1697-1-dislexia-1-2_TIME114400
+GIO_LAUNCHED_DESKTOP_FILE_PID		: 3251
+
+Desarrollo
+----------
+
+-Lenguajes de scripting-
+Gambas3 (gbr3)		: No encontrado
+Python		: No encontrado
+Python2		: No encontrado
+Python3		: 3.11.6
+Perl		: 5.36.0
+Perl6 (VM)		: No encontrado
+Perl6		: No encontrado
+PHP		: No encontrado
+Ruby		: No encontrado
+Bash		: 5.2.15(1)-release
+-Compiladores-
+C (GCC)		: No encontrado
+C (Clang)		: No encontrado
+D (dmd)		: No encontrado
+Gambas3 (gbc3)		: No encontrado
+Java		: No encontrado
+CSharp (Mono, old)		: No encontrado
+CSharp (Mono)		: No encontrado
+Vala		: No encontrado
+Haskell (GHC)		: No encontrado
+FreePascal		: No encontrado
+Go		: No encontrado
+-Herramientas-
+make		: No encontrado
+GDB		: (Ubuntu 14.0.50.20230907-0ubuntu1) 14.0.50.20230907-git
+strace		: 6.5
+valgrind		: No encontrado
+QMake		: No encontrado
+CMake		: No encontrado
+Gambas3 IDE		: No encontrado
+
+Usuarios
+--------
+
+-Usuarios-
+root		: root
+daemon		: daemon
+bin		: bin
+sys		: sys
+sync		: sync
+games		: games
+man		: man
+lp		: lp
+mail		: mail
+news		: news
+uucp		: uucp
+proxy		: proxy
+www-data		: www-data
+backup		: backup
+list		: Mailing List Manager
+irc		: ircd
+_apt
+nobody		: nobody
+systemd-network		: systemd Network Management
+systemd-timesync		: systemd Time Synchronization
+dhcpcd		: DHCP Client Daemon
+messagebus
+syslog
+systemd-resolve		: systemd Resolver
+uuidd
+usbmux		: usbmux daemon
+tss		: TPM software stack
+systemd-oom		: systemd Userspace OOM Killer
+tcpdump
+avahi-autoipd		: Avahi autoip daemon
+kernoops		: Kernel Oops Tracking Daemon
+whoopsie
+dnsmasq		: dnsmasq
+avahi		: Avahi mDNS daemon
+cups-pk-helper		: user for cups-pk-helper service
+sssd		: SSSD system user
+speech-dispatcher		: Speech Dispatcher
+fwupd-refresh		: fwupd-refresh user
+saned
+geoclue
+cups-browsed
+hplip		: HPLIP system user
+polkitd		: polkit
+rtkit		: RealtimeKit
+colord		: colord colour management daemon
+gnome-initial-setup
+gdm		: Gnome Display Manager
+nm-openvpn		: NetworkManager OpenVPN
+dislexia		: dislexia
+
+Grupos
+------
+
+-Group-
+root		: 0
+daemon		: 1
+bin		: 2
+sys		: 3
+adm		: 4
+tty		: 5
+disk		: 6
+lp		: 7
+mail		: 8
+news		: 9
+uucp		: 10
+man		: 12
+proxy		: 13
+kmem		: 15
+dialout		: 20
+fax		: 21
+voice		: 22
+cdrom		: 24
+floppy		: 25
+tape		: 26
+sudo		: 27
+audio		: 29
+dip		: 30
+www-data		: 33
+backup		: 34
+operator		: 37
+list		: 38
+irc		: 39
+src		: 40
+shadow		: 42
+utmp		: 43
+video		: 44
+sasl		: 45
+plugdev		: 46
+staff		: 50
+games		: 60
+users		: 100
+nogroup		: 65534
+systemd-journal		: 999
+systemd-network		: 998
+crontab		: 101
+systemd-timesync		: 997
+input		: 102
+sgx		: 103
+kvm		: 104
+render		: 105
+messagebus		: 106
+syslog		: 107
+systemd-resolve		: 996
+uuidd		: 108
+_ssh		: 109
+tss		: 110
+bluetooth		: 111
+ssl-cert		: 112
+systemd-oom		: 995
+tcpdump		: 113
+avahi-autoipd		: 114
+whoopsie		: 115
+avahi		: 116
+netdev		: 117
+lpadmin		: 118
+sssd		: 119
+pipewire		: 120
+fwupd-refresh		: 121
+scanner		: 122
+saned		: 123
+geoclue		: 124
+polkitd		: 994
+rtkit		: 125
+colord		: 126
+gdm		: 127
+nm-openvpn		: 128
+lxd		: 129
+gamemode		: 993
+gnome-initial-setup		: 992
+dislexia		: 1000
+
+Dispositivos
+************
+
+
+Procesador
+----------
+
+-Processors-
+Package Information	
+13th Gen Intel(R) Core(TM) i9-13900KF	0	0:0	2995,00 MHz	
+13th Gen Intel(R) Core(TM) i9-13900KF	1	0:1	2995,00 MHz	
+13th Gen Intel(R) Core(TM) i9-13900KF	2	0:2	2995,00 MHz	
+13th Gen Intel(R) Core(TM) i9-13900KF	3	0:3	2995,00 MHz	
+
+Memoria
+-------
+
+-Memory-
+MemTotal	Memoria total	3950992 KiB	
+MemFree	Memoria Libre	2193528 KiB	
+MemAvailable		2906364 KiB	
+Buffers		35632 KiB	
+Cached		886792 KiB	
+SwapCached	Intercambio	0 KiB	
+Active		1126800 KiB	
+Inactive		372416 KiB	
+Active(anon)		576856 KiB	
+Inactive(anon)		38256 KiB	
+Active(file)		549944 KiB	
+Inactive(file)		334160 KiB	
+Unevictable		16 KiB	
+Mlocked		16 KiB	
+SwapTotal	Memoria virtual	3950588 KiB	
+SwapFree	Memoria virtual libre	3950588 KiB	
+Zswap		0 KiB	
+Zswapped		0 KiB	
+Dirty		276 KiB	
+Writeback		0 KiB	
+AnonPages		575692 KiB	
+Mapped		311492 KiB	
+Shmem		38316 KiB	
+KReclaimable		62188 KiB	
+Slab		159600 KiB	
+SReclaimable		62188 KiB	
+SUnreclaim		97412 KiB	
+KernelStack		9040 KiB	
+PageTables		15728 KiB	
+SecPageTables		0 KiB	
+NFS_Unstable		0 KiB	
+Bounce		0 KiB	
+WritebackTmp		0 KiB	
+CommitLimit		5926084 KiB	
+Committed_AS		4771388 KiB	
+VmallocTotal		-1 KiB	
+VmallocUsed		25708 KiB	
+VmallocChunk		0 KiB	
+Percpu		2784 KiB	
+HardwareCorrupted		0 KiB	
+AnonHugePages		4096 KiB	
+ShmemHugePages		0 KiB	
+ShmemPmdMapped		0 KiB	
+FileHugePages		0 KiB	
+FilePmdMapped		0 KiB	
+Unaccepted		0 KiB	
+HugePages_Total		0	
+HugePages_Free		0	
+HugePages_Rsvd		0	
+HugePages_Surp		0	
+Hugepagesize		2048 KiB	
+Hugetlb		0 KiB	
+DirectMap4k		100288 KiB	
+DirectMap2M		4044800 KiB	
+
+Dispositivos PCI
+----------------
+
+-PCI Devices-
+Host bridge		: Intel Corporation 440FX - 82441FX PMC [Natoma] (rev 02)
+ISA bridge		: Intel Corporation 82371SB PIIX3 ISA [Natoma/Triton II]
+IDE interface		: Intel Corporation 82371AB/EB/MB PIIX4 IDE (rev 01) (prog-if 8a [ISA Compatibility mode controller, supports both channels switched to PCI native mode, supports bus mastering])
+VGA compatible controller		: VMware SVGA II Adapter (prog-if 00 [VGA controller])
+Ethernet controller		: Intel Corporation 82540EM Gigabit Ethernet Controller (rev 02)
+System peripheral		: InnoTek Systemberatung GmbH VirtualBox Guest Service
+Multimedia audio controller		: Intel Corporation 82801AA AC'97 Audio Controller (rev 01)
+USB controller		: Apple Inc. KeyLargo/Intrepid USB (prog-if 10 [OHCI])
+Bridge		: Intel Corporation 82371AB/EB/MB PIIX4 ACPI (rev 08)
+USB controller		: Intel Corporation 82801FB/FBM/FR/FW/FRW (ICH6 Family) USB2 EHCI Controller (prog-if 20 [EHCI])
+SATA controller		: Intel Corporation 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode] (rev 02) (prog-if 01 [AHCI 1.0])
+
+Dispositivos USB
+----------------
+
+-Dispositivos USB-
+Linux Foundation 2.0 root hub
+VirtualBox USB Tablet
+Linux Foundation 1.1 root hub
+
+Impresoras
+----------
+
+-Impresoras-
+No se encontraron impresoras
+
+Batería
+--------
+
+-Sin baterías-
+No se encontraron baterías en este sistema
+
+Sensores
+--------
+
+-Sensors-
+
+Dispositivos de entrada
+-----------------------
+
+-Input Devices-
+ Power Button
+ Sleep Button
+ AT Translated Set 2 keyboard
+ Video Bus
+ ImExPS/2 Generic Explorer Mouse
+ VirtualBox USB Tablet
+ VirtualBox mouse integration
+
+Almacenamiento
+--------------
+
+-Discos SCSI-
+VBOX CD-ROM
+ATA VBOX HARDDISK
+
+DMI
+---
+
+-Product-
+Nombre		: VirtualBox
+Familia		: Virtual Machine
+Proveedor		: innotek GmbH
+Versión		: 1.2
+-BIOS-
+Date		: 12/01/2006
+Proveedor		: innotek GmbH
+Versión		: VirtualBox
+-Tarjeta-
+Nombre		: VirtualBox
+Proveedor		: Oracle Corporation
+Versión		: 1.2
+Numero serial		: (Not available; Perhaps try running HardInfo as root.)
+Asset Tag		: (Not available; Perhaps try running HardInfo as root.)
+-Chassis-
+Proveedor		: Oracle Corporation
+Tipo		: [1] Clasificación mauqina desconocida
+Versión		: (Not available; Perhaps try running HardInfo as root.)
+Numero serial		: (Not available; Perhaps try running HardInfo as root.)
+Asset Tag		: (Not available; Perhaps try running HardInfo as root.)
+
+Memoria SPD
+-----------
+
+-SPD-
+Por favor carge el modulo eeprom para obtener informacion de memorias SPD
+
+Recursos
+--------
+
+-I/O Ports-
+<tt>0000-0000 </tt>		: PCI Bus 0000:00
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode] (rev 02) (prog-if 01 [AHCI 1.0])
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode] (rev 02) (prog-if 01 [AHCI 1.0])
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode] (rev 02) (prog-if 01 [AHCI 1.0])
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode] (rev 02) (prog-if 01 [AHCI 1.0])
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode] (rev 02) (prog-if 01 [AHCI 1.0])
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode] (rev 02) (prog-if 01 [AHCI 1.0])
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode] (rev 02) (prog-if 01 [AHCI 1.0])
+<tt>    0000-0000 </tt>		: <b><small>Module</small></b> AHCI SATA low-level driver
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode] (rev 02) (prog-if 01 [AHCI 1.0])
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode] (rev 02) (prog-if 01 [AHCI 1.0])
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode] (rev 02) (prog-if 01 [AHCI 1.0])
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode] (rev 02) (prog-if 01 [AHCI 1.0])
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode] (rev 02) (prog-if 01 [AHCI 1.0])
+<tt>    0000-0000 </tt>		: <b><small>Module</small></b> AHCI SATA low-level driver
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode] (rev 02) (prog-if 01 [AHCI 1.0])
+<tt>    0000-0000 </tt>		: <b><small>Module</small></b> AHCI SATA low-level driver
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode] (rev 02) (prog-if 01 [AHCI 1.0])
+<tt>    0000-0000 </tt>		: <b><small>Module</small></b> AHCI SATA low-level driver
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode] (rev 02) (prog-if 01 [AHCI 1.0])
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode] (rev 02) (prog-if 01 [AHCI 1.0])
+<tt>    0000-0000 </tt>		: <b><small>Module</small></b> AHCI SATA low-level driver
+<tt>0000-0000 </tt>		: PCI Bus 0000:00
+<tt>0000-0000 </tt>		: PCI Bus 0000:00
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode] (rev 02) (prog-if 01 [AHCI 1.0])
+<tt>    0000-0000 </tt>		: <b><small>Module</small></b> AHCI SATA low-level driver
+<tt>    0000-0000 </tt>		: <b><small>Module</small></b> AHCI SATA low-level driver
+<tt>    0000-0000 </tt>		: <b><small>Module</small></b> AHCI SATA low-level driver
+<tt>    0000-0000 </tt>		: <b><small>Module</small></b> AHCI SATA low-level driver
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode] (rev 02) (prog-if 01 [AHCI 1.0])
+<tt>    0000-0000 </tt>		: <b><small>Module</small></b> AHCI SATA low-level driver
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode] (rev 02) (prog-if 01 [AHCI 1.0])
+<tt>    0000-0000 </tt>		: <b><small>Module</small></b> AHCI SATA low-level driver
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode] (rev 02) (prog-if 01 [AHCI 1.0])
+<tt>    0000-0000 </tt>		: <b><small>Module</small></b> AHCI SATA low-level driver
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode] (rev 02) (prog-if 01 [AHCI 1.0])
+<tt>    0000-0000 </tt>		: <b><small>Module</small></b> AHCI SATA low-level driver
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode] (rev 02) (prog-if 01 [AHCI 1.0])
+<tt>    0000-0000 </tt>		: <b><small>Module</small></b> AHCI SATA low-level driver
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode] (rev 02) (prog-if 01 [AHCI 1.0])
+<tt>    0000-0000 </tt>		: <b><small>Module</small></b> AHCI SATA low-level driver
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode] (rev 02) (prog-if 01 [AHCI 1.0])
+<tt>    0000-0000 </tt>		: <b><small>Module</small></b> AHCI SATA low-level driver
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode] (rev 02) (prog-if 01 [AHCI 1.0])
+<tt>    0000-0000 </tt>		: <b><small>Module</small></b> AHCI SATA low-level driver
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode] (rev 02) (prog-if 01 [AHCI 1.0])
+<tt>    0000-0000 </tt>		: <b><small>Module</small></b> AHCI SATA low-level driver
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode] (rev 02) (prog-if 01 [AHCI 1.0])
+<tt>    0000-0000 </tt>		: <b><small>Module</small></b> AHCI SATA low-level driver
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode] (rev 02) (prog-if 01 [AHCI 1.0])
+<tt>    0000-0000 </tt>		: <b><small>Module</small></b> AHCI SATA low-level driver
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode] (rev 02) (prog-if 01 [AHCI 1.0])
+<tt>    0000-0000 </tt>		: <b><small>Module</small></b> AHCI SATA low-level driver
+-Memory-
+<tt>00000000-00000000 </tt>		: RAM buffer
+<tt>00000000-00000000 </tt>		: RAM buffer
+<tt>00000000-00000000 </tt>		: RAM buffer
+<tt>00000000-00000000 </tt>		: RAM buffer
+<tt>00000000-00000000 </tt>		: RAM buffer
+<tt>00000000-00000000 </tt>		: RAM buffer
+<tt>00000000-00000000 </tt>		: RAM buffer
+<tt>  00000000-00000000 </tt>		: Reserved
+<tt>00000000-00000000 </tt>		: RAM buffer
+<tt>  00000000-00000000 </tt>		: Reserved
+<tt>  00000000-00000000 </tt>		: Reserved
+<tt>  00000000-00000000 </tt>		: Reserved
+<tt>  00000000-00000000 </tt>		: Reserved
+<tt>00000000-00000000 </tt>		: RAM buffer
+<tt>00000000-00000000 </tt>		: RAM buffer
+<tt>  00000000-00000000 </tt>		: Reserved
+<tt>    00000000-00000000 </tt>		: <b><small>Module</small></b> AHCI SATA low-level driver
+<tt>  00000000-00000000 </tt>		: Reserved
+<tt>    00000000-00000000 </tt>		: <b><small>Module</small></b> AHCI SATA low-level driver
+<tt>  00000000-00000000 </tt>		: Reserved
+<tt>    00000000-00000000 </tt>		: <b><small>Module</small></b> AHCI SATA low-level driver
+<tt>  00000000-00000000 </tt>		: Reserved
+<tt>    00000000-00000000 </tt>		: <b><small>Module</small></b> AHCI SATA low-level driver
+<tt>  00000000-00000000 </tt>		: Reserved
+<tt>  00000000-00000000 </tt>		: Reserved
+<tt>    00000000-00000000 </tt>		: <b><small>Module</small></b> AHCI SATA low-level driver
+<tt>  00000000-00000000 </tt>		: Reserved
+<tt>    00000000-00000000 </tt>		: <b><small>Module</small></b> AHCI SATA low-level driver
+<tt>  00000000-00000000 </tt>		: Reserved
+<tt>    00000000-00000000 </tt>		: <b><small>Module</small></b> AHCI SATA low-level driver
+<tt>00000000-00000000 </tt>		: RAM buffer
+<tt>  00000000-00000000 </tt>		: Reserved
+<tt>00000000-00000000 </tt>		: RAM buffer
+<tt>  00000000-00000000 </tt>		: Reserved
+<tt>00000000-00000000 </tt>		: RAM buffer
+<tt>00000000-00000000 </tt>		: RAM buffer
+<tt>00000000-00000000 </tt>		: RAM buffer
+-DMA-
+<tt> 4</tt>		: cascade
+
+Red
+***
+
+
+Interfaces
+----------
+
+-Interfaces de Red-
+lo	0,02MiB	0,02MiB	127.0.0.1	
+enp0s3	7,45MiB	0,16MiB	10.0.2.15	
+
+Conexiones IP
+-------------
+
+-Conexiones-
+
+Tabla de ruteo
+--------------
+
+-Tabla de ruteo IP-
+
+Tabla ARP
+---------
+
+-Tabla ARP-
+10.0.2.2	52:54:00:12:35:02	enp0s3	
+
+Servidores DNS
+--------------
+
+-Servidores de nombres-
+127.0.0.53		: _localdnsstub
+
+Estadísticas
+-------------
+
+
+Directorios compartidos
+-----------------------
+
+-SAMBA-
+
+Benchmarks
+**********
+
+
+CPU Blowfish
+------------
+
+-CPU Blowfish-
+13th Gen Intel(R) Core(TM) i9-13900KF	4x 2995,00 MHz	0,74	
+Intel(R) Pentium(R) D CPU 3.00GHz	2x 3000,00 MHz	10,00	
+Intel(R) Celeron(R) CPU540@ 1.86GHz	1x 1861,00 MHz	25,00	
+AMD Turion(tm) 64 X2 TL-58	2x 800,00 MHz	12,00	
+AMD Athlon(tm) 64 X2 Dual Core Processor 3800+	2x 2200,00 MHz	10,00	
+AMD Athlon(tm) 64 X2 Dual Core Processor 6400+	2x 1000,00 MHz	6,00	
+Intel(R) Core(TM)2 Extreme CPU X7900@ 2.80GHz	2x 2800,00 MHz	6,00	
+Intel(R) Pentium(R) M processor 1.70GHz	1x 1000,00 MHz	28,00	
+AMD Phenom(tm) 8650 Triple-Core Processor	3x 2300,00 MHz	5,00	
+Intel(R) Pentium(R) 4 CPU 2.40GHz	1x 2400,00 MHz	24,00	
+AMD Athlon(tm) 64 X2 Dual Core Processor 4400+	2x 1000,00 MHz	7,00	
+AMD Phenom(tm) II X4 940 Processor	4x 800,00 MHz	3,00	
+Pentium III (Coppermine)	2x 999,00 MHz	17,00	
+Intel(R) Pentium(R) 4 CPU 3.20GHz	2x 3000,00 MHz	12,00	
+Intel(R) Pentium(R) 4 CPU 1500MHz	1x 1495,00 MHz	46,00	
+AMD Turion(tm) 64 X2 Mobile Technology TL-58	2x 1900,00 MHz	10,00	
+Intel(R) Celeron(R) M processor 1.40GHz	1x 1395,00 MHz	80,00	
+Mobile AMD Athlon(tm) XP 2800+	1x 1459,00 MHz	18,00	
+Intel(R) Celeron(R) CPU420@ 1.60GHz	1x 1600,00 MHz	21,00	
+AMD Phenom(tm) 9750 Quad-Core Processor	4x 1200,00 MHz	4,00	
+Intel(R) Atom(TM) CPU N280 @ 1.66GHz	2x 1000,00 MHz	16,00	
+AMD Athlon(tm) X2 Dual-Core QL-60	2x 1900,00 MHz	10,00	
+Intel(R) Pentium(R) DualCPUT2370@ 1.73GHz	2x 1733,00 MHz	9,00	
+AMD Athlon(tm) XP 1900+	1x 1593,00 MHz	31,00	
+AMD Athlon(tm) XP 1800+	1x 1540,00 MHz	23,00	
+Intel(R) Pentium(R) M processor 1.73GHz	1x 1000,00 MHz	19,00	
+AMD Sempron(tm) Processor 3200+	1x 1000,00 MHz	25,00	
+VIA Esther processor 1500MHz	1x 1499,00 MHz	41,00	
+Intel(R) Core(TM)2 Quad CPUQ6700@ 2.66GHz	4x 2669,00 MHz	3,00	
+AMD Athlon(tm) 64 X2 Dual Core Processor 5000+	2x 1000,00 MHz	7,00	
+Intel(R) Xeon(R) CPU3040@ 1.86GHz	2x 1862,00 MHz	9,00	
+Intel(R) Pentium(R) DualCPUT2310@ 1.46GHz	2x 1463,00 MHz	11,00	
+Intel(R) Core(TM)2 Duo CPU P8400@ 2.26GHz	2x 2000,00 MHz	8,00	
+AMD Turion(tm) X2 Dual-Core Mobile RM-74	2x 600,00 MHz	8,00	
+Genuine Intel(R) CPU 575@ 2.00GHz	1x 1995,00 MHz	20,00	
+AMD Turion(tm) 64 X2 Mobile Technology TL-62	2x 800,00 MHz	8,00	
+AMD Turion(tm) 64 X2 Mobile Technology TL-56	2x 800,00 MHz	10,00	
+Intel(R) Celeron(R) CPU 2.80GHz	1x 2793,00 MHz	40,00	
+Intel(R) Pentium(R) 4 CPU 2.80GHz	2x 2800,00 MHz	11,00	
+Genuine Intel(R) CPU2140@ 1.60GHz	2x 1595,00 MHz	10,00	
+AMD Athlon(tm) 7750 Dual-Core Processor	2x 1350,00 MHz	7,00	
+Intel(R) Core(TM)2 Duo CPU E8400@ 3.00GHz	2x 2997,00 MHz	5,00	
+Intel(R) Core(TM)2 CPU T7400@ 2.16GHz	2x 2161,00 MHz	9,00	
+Intel(R) Pentium(R) 4 CPU 2.53GHz	1x 2525,00 MHz	48,00	
+Intel(R) Core(TM)2 Quad CPUQ9550@ 2.83GHz	4x 2830,00 MHz	3,00	
+Intel(R) Core(TM)2 CPU6700@ 2.66GHz	2x 2667,00 MHz	6,00	
+AMD Turion(tm) X2 Dual-Core Mobile RM-72	2x 500,00 MHz	11,00	
+Intel(R) Core(TM)2 Duo CPU T9400@ 2.53GHz	2x 2000,00 MHz	6,00	
+AMD Athlon(tm) 64 X2 Dual Core Processor 4800+	2x 2512,00 MHz	8,00	
+Intel(R) Celeron(R) M CPU520@ 1.60GHz	1x 1600,00 MHz	22,00	
+Intel(R) Core(TM)2 Quad CPUQ8300@ 2.50GHz	4x 2497,00 MHz	3,00	
+PowerPC 740/750	1x 280,00 MHz	172,00	
+
+CPU CryptoHash
+--------------
+
+-CPU CryptoHash-
+13th Gen Intel(R) Core(TM) i9-13900KF	4x 2995,00 MHz	1452,05	
+Intel(R) Atom(TM) CPU330 @ 1.60GHz	4x 1596,00 MHz	105,00	
+Intel(R) Core(TM)2 Duo CPU T5250@ 1.50GHz	2x 1000,00 MHz	102,00	
+Intel(R) Celeron(R) M processor900MHz	1x 900,00 MHz	24,00	
+Intel(R) Core(TM)2 CPU E8400@ 3.00GHz	2x 3000,00 MHz	163,00	
+Intel(R) Xeon(R) CPU E5405@ 2.00GHz	2x 1995,00 MHz	117,00	
+Intel(R) Core(TM) Duo CPUT2450@ 2.00GHz	2x 2000,00 MHz	127,00	
+Intel(R) Pentium(R) 4 CPU 2.00GHz	1x 1994,00 MHz	24,00	
+AMD Phenom(tm) 9350e Quad-Core Processor	4x 2000,00 MHz	237,00	
+AMD Turion(tm) X2 Ultra Dual-Core Mobile ZM-82	2x 600,00 MHz	100,00	
+AMD Athlon(tm) XP 3000+	1x 2158,00 MHz	66,00	
+Intel(R) Celeron(R) M CPU520@ 1.60GHz	1x 1600,00 MHz	52,00	
+Intel(R) Core(TM)2 Quad CPUQ6700@ 2.66GHz	4x 2669,00 MHz	264,00	
+AMD Athlon(tm) XP 1900+	1x 1593,00 MHz	31,00	
+Intel(R) Pentium(R) 4 CPU 3.20GHz	2x 3000,00 MHz	66,00	
+AMD Sempron(tm) 2600+	1x 1840,00 MHz	53,00	
+AMD Athlon(tm) 64 X2 Dual Core Processor 3800+	2x 2200,00 MHz	94,00	
+AMD Turion(tm) 64 X2 Mobile Technology TL-62	2x 800,00 MHz	119,00	
+AMD Athlon(tm) XP 2000+	1x 1667,00 MHz	45,00	
+AMD Athlon(tm) 64 Processor 3500+	1x 1000,00 MHz	62,00	
+AMD Turion(tm) 64 X2 Mobile Technology TL-56	2x 800,00 MHz	92,00	
+AMD Athlon(tm) 64 X2 Dual Core Processor 4000+	2x 1000,00 MHz	97,00	
+Intel(R) Pentium(R) D CPU 3.00GHz	2x 3000,00 MHz	96,00	
+Mobile AMD Sempron(tm) Processor 3600+	1x 800,00 MHz	54,00	
+Intel(R) Core(TM)2 Quad CPUQ9650@ 3.00GHz	4x 2997,00 MHz	303,00	
+AMD Sempron(tm) Processor 3600+	1x 1000,00 MHz	43,00	
+Intel(R) Core(TM)2 Duo CPU T9400@ 2.53GHz	2x 2000,00 MHz	148,00	
+AMD Turion(tm) 64 X2 Mobile Technology TL-58	2x 1900,00 MHz	101,00	
+Intel(R) Core(TM)2 Duo CPU P7350@ 2.00GHz	2x 2000,00 MHz	103,00	
+VIA Esther processor 1500MHz	1x 1499,00 MHz	7,00	
+Intel(R) Core(TM)2 Duo CPU P8600@ 2.40GHz	2x 2000,00 MHz	150,00	
+Intel(R) Core(TM)2 Duo CPU T7700@ 2.40GHz	2x 2000,00 MHz	142,00	
+Intel(R) Core(TM)2 Duo CPU T5550@ 1.83GHz	2x 1829,00 MHz	122,00	
+Intel(R) Core(TM)2 Duo CPU T7250@ 2.00GHz	2x 2001,00 MHz	121,00	
+Intel(R) Core(TM)2 CPU6700@ 2.66GHz	2x 2667,00 MHz	163,00	
+Intel(R) Pentium(R) 4 CPU 2.40GHz	1x 2400,00 MHz	30,00	
+Intel(R) Core(TM)2 Quad CPUQ9400@ 2.66GHz	4x 2003,00 MHz	296,00	
+AMD Athlon(tm) 64 Processor 3200+	1x 1000,00 MHz	42,00	
+Intel(R) Pentium(R) DualCPUT3200@ 2.00GHz	2x 2000,00 MHz	88,00	
+Intel(R) Pentium(R) 4 CPU 2.26GHz	1x 2267,00 MHz	29,00	
+AMD Sempron(tm) Processor 3400+	1x 1000,00 MHz	53,00	
+AMD Sempron(tm) Processor 3000+	1x 1800,00 MHz	47,00	
+AMD Athlon(tm) XP 2400+	1x 1991,00 MHz	61,00	
+Intel(R) Atom(TM) CPU Z530 @ 1.60GHz	2x 1067,00 MHz	54,00	
+Pentium III (Coppermine)	1x 700,00 MHz	26,00	
+Intel(R) Core(TM) i7 CPU 920@ 2.67GHz	8x 3799,00 MHz	390,00	
+AMD Athlon(tm) 64 X2 Dual Core Processor 6000+	2x 3051,00 MHz	146,00	
+AMD Turion(tm) 64 Mobile Technology ML-37	1x 2000,00 MHz	42,00	
+Intel(R) Xeon(R) CPU3040@ 1.86GHz	2x 1862,00 MHz	127,00	
+AMD Athlon(tm) XP 2500+	1x 1792,00 MHz	39,00	
+Intel(R) Core(TM)2 Duo CPU T9500@ 2.60GHz	2x 2593,00 MHz	172,00	
+
+CPU Fibonacci
+-------------
+
+-CPU Fibonacci-
+13th Gen Intel(R) Core(TM) i9-13900KF	4x 2995,00 MHz	0,17	
+AMD Phenom(tm) 9500 Quad-Core Processor	4x 1100,00 MHz	3,00	
+Intel(R) Core(TM)2 Duo CPU T7250@ 2.00GHz	2x 2001,00 MHz	4,00	
+Intel(R) Pentium(R) 4 CPU 2.80GHz	1x 2791,00 MHz	5,00	
+AMD Athlon(tm) Processor	1x 1210,00 MHz	7,00	
+Intel(R) Core(TM)2 CPU T5200@ 1.60GHz	2x 1067,00 MHz	7,00	
+Intel(R) Atom(TM) CPU330 @ 1.60GHz	4x 1596,00 MHz	8,00	
+AMD Phenom(tm) 9150e Quad-Core Processor	4x 900,00 MHz	3,00	
+AMD Turion(tm) 64 Mobile Technology MK-36	1x 800,00 MHz	6,00	
+AMD Athlon(tm) 64 Processor 3200+	1x 1000,00 MHz	5,00	
+Intel(R) Core(TM)2 Quad CPUQ9400@ 2.66GHz	4x 2003,00 MHz	2,00	
+Intel(R) Core(TM)2 Duo CPU T7500@ 2.20GHz	1x 2000,00 MHz	4,00	
+AMD Athlon(tm) XP	1x 906,00 MHz	33,00	
+Intel(R) Core(TM)2 Quad CPUQ6700@ 2.66GHz	4x 2669,00 MHz	3,00	
+Intel(R) Pentium(R) 4 CPU 2.00GHz	1x 1994,00 MHz	8,00	
+Intel(R) Core(TM)2 Duo CPU E6550@ 2.33GHz	2x 2700,00 MHz	3,00	
+Intel(R) Core(TM)2 Duo CPU T7100@ 1.80GHz	2x 1801,00 MHz	4,00	
+Dual Core AMD Opteron(tm) Processor 165	2x 1979,00 MHz	4,00	
+Intel(R) Pentium(R) 4 CPU 2.40GHz	1x 2400,00 MHz	6,00	
+Intel(R) Core(TM)2 Duo CPU P8600@ 2.40GHz	1x 2000,00 MHz	3,00	
+AMD Turion(tm) X2 Dual-Core Mobile RM-70	2x 500,00 MHz	4,00	
+Intel(R) Pentium(R) 4 CPU 2.53GHz	1x 2525,00 MHz	10,00	
+Unknown CPU Type	1x 1660,00 MHz	5,00	
+Pentium III (Coppermine)	2x 999,00 MHz	10,00	
+Intel(R) Core(TM)2 CPU T5600@ 1.83GHz	2x 1000,00 MHz	5,00	
+Intel(R) Celeron(R) CPU 3.06GHz	1x 3059,00 MHz	3,00	
+AMD Phenom(tm) 9850 Quad-Core Processor	4x 1300,00 MHz	2,00	
+Intel(R) Pentium(R) 4 CPU 3.00GHz	2x 3458,00 MHz	4,00	
+AMD Sempron(tm) Processor LE-1200	1x 2109,00 MHz	6,00	
+Intel(R) Pentium(R) 4 CPU 2.80GHz	1x 2791,00 MHz	5,00	
+AMD Athlon(tm) 64 X2 Dual Core Processor 4000+	2x 1000,00 MHz	4,00	
+AMD Athlon(tm) XP 1600+	1x 1398,00 MHz	6,00	
+Genuine Intel(R) CPU T2050@ 1.60GHz	2x 800,00 MHz	6,00	
+Intel(R) Celeron(R) CPU560@ 2.13GHz	1x 2128,00 MHz	4,00	
+AMD Phenom(tm) 8650 Triple-Core Processor	3x 2300,00 MHz	3,00	
+Intel(R) Core(TM) i7 CPU 920@ 2.67GHz	8x 3799,00 MHz	2,00	
+AMD Athlon(tm) 64 X2 Dual Core Processor 5000+	2x 1000,00 MHz	3,00	
+AMD Athlon(tm) XP 2500+	1x 1792,00 MHz	7,00	
+Intel(R) Xeon(R) CPU3040@ 1.86GHz	2x 1862,00 MHz	4,00	
+AMD Athlon(tm) X2 Dual-Core QL-60	2x 1900,00 MHz	4,00	
+Intel(R) Core(TM)2 CPU T7400@ 2.16GHz	2x 2161,00 MHz	4,00	
+AMD Turion(tm) 64 X2 Mobile Technology TL-60	2x 2000,00 MHz	4,00	
+AMD Turion(tm) 64 X2 Mobile Technology TL-52	2x 1600,00 MHz	5,00	
+AMD Athlon(tm) 64 X2 Dual Core Processor 6000+	2x 3051,00 MHz	2,00	
+Intel(R) Atom(TM) CPU N280 @ 1.66GHz	2x 1000,00 MHz	8,00	
+Intel(R) Core(TM)2 Quad CPUQ9550@ 2.83GHz	4x 2830,00 MHz	2,00	
+Intel(R) Core(TM)2 Duo CPU T7300@ 2.00GHz	2x 2001,00 MHz	4,00	
+AMD Sempron(tm) Processor 3600+	1x 1000,00 MHz	5,00	
+AMD Athlon(tm)	1x 2305,00 MHz	4,00	
+AMD Athlon(tm) X2 Dual Core Processor BE-2300	2x 1899,00 MHz	4,00	
+Intel(R) Core(TM)2 Duo CPU E6750@ 2.66GHz	2x 2671,00 MHz	4,00	
+PowerPC 740/750	1x 280,00 MHz	58,00	
+
+CPU N-Reinas
+------------
+
+-CPU N-Queens-
+13th Gen Intel(R) Core(TM) i9-13900KF	4x 2995,00 MHz	4,31	
+AMD Athlon(tm) 64 X2 Dual Core Processor 5400+	2x 1000,00 MHz	15,00	
+Genuine Intel(R) CPU T2080@ 1.73GHz	2x 1000,00 MHz	33,00	
+Intel(R) Core(TM)2 Duo CPU T5450@ 1.66GHz	2x 1000,00 MHz	14,00	
+Intel(R) Core(TM)2 QuadCPU Q9300@ 2.50GHz	4x 3000,00 MHz	14,00	
+Intel(R) Atom(TM) CPU Z530 @ 1.60GHz	2x 1067,00 MHz	18,00	
+Intel(R) Atom(TM) CPU330 @ 1.60GHz	4x 1596,00 MHz	26,00	
+AMD Athlon(tm) XP 1600+	1x 1398,00 MHz	19,00	
+Intel(R) Core(TM)2 Quad CPUQ6700@ 2.66GHz	4x 2669,00 MHz	17,00	
+Intel(R) Pentium(R) 4 CPU 2.60GHz	2x 2600,00 MHz	14,00	
+Intel(R) Core(TM)2 CPU6320@ 1.86GHz	2x 1600,00 MHz	16,00	
+Intel(R) Core(TM)2 Extreme CPU X7900@ 2.80GHz	2x 2800,00 MHz	7,00	
+Intel(R) Core(TM)2 QuadCPU Q9450@ 2.66GHz	4x 2000,00 MHz	12,00	
+Intel(R) Core(TM)2 CPU E8400@ 3.00GHz	2x 3000,00 MHz	7,00	
+Pentium III (Coppermine)	2x 999,00 MHz	35,00	
+AMD Athlon(tm) 64 X2 Dual Core Processor 4000+	2x 1000,00 MHz	19,00	
+AMD Turion(tm) 64 X2 Mobile Technology TL-50	2x 800,00 MHz	23,00	
+Intel(R) Pentium(R) D CPU 3.40GHz	2x 3000,00 MHz	13,00	
+Pentium III (Coppermine)	2x 999,00 MHz	35,00	
+AMD Athlon(tm) 64 X2 Dual Core Processor 3600+	2x 1000,00 MHz	22,00	
+AMD Athlon(tm) 64 X2 Dual Core Processor 5200+	2x 2705,00 MHz	14,00	
+AMD Athlon(tm) 64 X2 Dual-Core Processor TK-55	2x 800,00 MHz	20,00	
+Intel(R) Core(TM)2 Duo CPU E6850@ 3.00GHz	2x 3000,00 MHz	7,00	
+Intel(R) Core(TM)2 Duo CPU P8400@ 2.26GHz	2x 2000,00 MHz	10,00	
+Intel(R) Core(TM)2 Quad CPUQ9400@ 2.66GHz	4x 2003,00 MHz	18,00	
+AMD Athlon(tm) XP 1900+	1x 1593,00 MHz	26,00	
+Intel(R) Core(TM) Duo CPUT2350@ 1.86GHz	2x 1867,00 MHz	22,00	
+Intel(R) Core(TM)2 Duo CPU E8400@ 3.00GHz	2x 2997,00 MHz	7,00	
+AMD Athlon(tm) XP 2800+	1x 2087,00 MHz	13,00	
+Genuine Intel(R) CPU T2500@ 2.00GHz	2x 2000,00 MHz	28,00	
+AMD Turion(tm) 64 X2 Mobile Technology TL-58	2x 1900,00 MHz	20,00	
+Intel(R) Pentium(R) 4 CPU 3.40GHz	2x 3000,00 MHz	15,00	
+Intel(R) Celeron(R) M processor900MHz	1x 900,00 MHz	33,00	
+AMD Athlon(tm) X2 Dual-Core QL-60	2x 1900,00 MHz	20,00	
+Intel(R) Core(TM)2 Duo CPU T5850@ 2.16GHz	2x 2167,00 MHz	10,00	
+Mobile AMD Athlon(tm) XP-M Processor 3000+	1x 799,00 MHz	52,00	
+AMD Phenom(tm) 9500 Quad-Core Processor	4x 1100,00 MHz	10,00	
+Intel(R) Celeron(R) M processor 1.40GHz	1x 1395,00 MHz	94,00	
+Mobile AMD Athlon(tm) XP 2800+	1x 1459,00 MHz	13,00	
+AMD Athlon(tm) 64 Processor 3000+	1x 1800,00 MHz	18,00	
+Genuine Intel(R) CPU L2400@ 1.66GHz	2x 1000,00 MHz	19,00	
+AMD Sempron(tm) Processor 2800+	1x 1999,00 MHz	17,00	
+AMD Sempron(tm) 2600+	1x 1840,00 MHz	14,00	
+Intel(R) Pentium(R) M processor 1600MHz	1x 1600,00 MHz	15,00	
+Genuine Intel(R) CPU 575@ 2.00GHz	1x 1995,00 MHz	15,00	
+Genuine Intel(R) CPU T2300@ 1.66GHz	2x 1000,00 MHz	27,00	
+Intel(R) Pentium(R) M processor 1.70GHz	1x 1000,00 MHz	22,00	
+AMD Athlon(tm) XP processor 1800+	1x 1533,00 MHz	17,00	
+Intel(R) Core(TM)2 Duo CPU T5750@ 2.00GHz	2x 1994,00 MHz	11,00	
+Intel(R) Core(TM)2 Duo CPU T7250@ 2.00GHz	2x 2001,00 MHz	11,00	
+Intel(R) Pentium(R) 4 CPU 1500MHz	1x 1495,00 MHz	28,00	
+
+CPU Zlib
+--------
+
+-CPU Zlib-
+13th Gen Intel(R) Core(TM) i9-13900KF	4x 2995,00 MHz	0,72	
+PowerPC 740/750	1x 280,00 MHz	2150,00	
+
+FPU FFT
+-------
+
+-FPU FFT-
+13th Gen Intel(R) Core(TM) i9-13900KF	4x 2995,00 MHz	0,30	
+Intel(R) Pentium(R) DualCPUT3200@ 2.00GHz	2x 2000,00 MHz	5,00	
+Intel(R) Celeron(R) CPU 2.53GHz	1x 2527,00 MHz	10,00	
+Genuine Intel(R) CPU T1350@ 1.86GHz	1x 1867,00 MHz	83,00	
+AMD Turion(tm) 64 X2 Mobile Technology TL-60	2x 2000,00 MHz	8,00	
+AMD Turion(tm) X2 Dual-Core Mobile RM-70	2x 500,00 MHz	8,00	
+Intel(R) Core(TM) Duo CPUT2350@ 1.86GHz	2x 1867,00 MHz	5,00	
+Intel(R) Core(TM)2 Duo CPU T5750@ 2.00GHz	2x 1994,00 MHz	4,00	
+Intel(R) Core(TM)2 Duo CPU T9500@ 2.60GHz	2x 2593,00 MHz	3,00	
+AMD Athlon(tm) X2 Dual-Core QL-60	2x 1900,00 MHz	9,00	
+Intel(R) Core(TM)2 Duo CPU T5250@ 1.50GHz	2x 1000,00 MHz	5,00	
+Mobile AMD Athlon(tm) XP-M Processor 3000+	1x 799,00 MHz	43,00	
+AMD Athlon(tm) 64 X2 Dual Core Processor 4000+	2x 1000,00 MHz	7,00	
+AMD Athlon(tm) XP processor 1800+	1x 1533,00 MHz	25,00	
+Genuine Intel(R) CPU2140@ 1.60GHz	2x 1595,00 MHz	5,00	
+Intel(R) Core(TM)2 Quad CPUQ6600@ 2.40GHz	4x 2000,00 MHz	1,00	
+Intel(R) Core(TM)2 Duo CPU P7350@ 2.00GHz	2x 2000,00 MHz	4,00	
+Genuine Intel(R) CPU T2080@ 1.73GHz	2x 1000,00 MHz	4,00	
+Intel(R) Celeron(R) CPU 2.50GHz	1x 2492,00 MHz	14,00	
+Intel(R) Pentium(R) M processor 1.86GHz	1x 1867,00 MHz	11,00	
+Intel(R) Core(TM)2 CPU T5200@ 1.60GHz	2x 1067,00 MHz	6,00	
+Intel(R) Core(TM)2 CPU6320@ 1.86GHz	2x 1600,00 MHz	4,00	
+AMD Athlon(tm) XP	1x 906,00 MHz	84,00	
+AMD Athlon(tm) 64 Processor 3000+	1x 1800,00 MHz	25,00	
+Intel(R) Pentium(R) 4 CPU 2.60GHz	2x 2600,00 MHz	8,00	
+Intel(R) Core(TM)2 Quad CPUQ9400@ 2.66GHz	4x 2003,00 MHz	1,00	
+Intel(R) Pentium(R) M processor 1600MHz	1x 1600,00 MHz	13,00	
+Pentium(R) Dual-Core CPU T4200@ 2.00GHz	2x 2000,00 MHz	4,00	
+Intel(R) Core(TM)2 Quad CPU @ 2.40GHz	4x 2400,00 MHz	1,00	
+Intel(R) Core(TM)2 Quad CPUQ8300@ 2.50GHz	4x 2497,00 MHz	1,00	
+Intel(R) Core(TM)2 Extreme CPU X7900@ 2.80GHz	2x 2800,00 MHz	3,00	
+Intel(R) Celeron(R) D CPU 3.20GHz	1x 3196,00 MHz	8,00	
+AMD Sempron(tm) 2600+	1x 1840,00 MHz	20,00	
+AMD Athlon(tm) 64 X2 Dual Core Processor 4400+	2x 1000,00 MHz	6,00	
+Intel(R) Celeron(R) CPU 2.66GHz	1x 2666,00 MHz	9,00	
+Intel(R) Core(TM) Duo CPUT2450@ 2.00GHz	2x 2000,00 MHz	4,00	
+Intel(R) Celeron(R) M CPU520@ 1.60GHz	1x 1600,00 MHz	11,00	
+Intel(R) Pentium(R) 4 CPU 3.06GHz	2x 3065,00 MHz	7,00	
+Intel(R) Core(TM)2 CPU4300@ 1.80GHz	2x 1200,00 MHz	5,00	
+Intel(R) Core(TM)2 CPU6400@ 2.13GHz	2x 2128,00 MHz	4,00	
+AMD Turion(tm) 64 Mobile Technology MK-36	1x 800,00 MHz	19,00	
+Intel(R) Core(TM)2 CPU6600@ 2.40GHz	2x 2000,00 MHz	3,00	
+Intel(R) Core(TM)2 Duo CPU T7250@ 2.00GHz	2x 2001,00 MHz	4,00	
+Intel(R) Celeron(R) M processor900MHz	1x 900,00 MHz	24,00	
+AMD Sempron(tm) Processor 3400+	1x 1000,00 MHz	17,00	
+AMD Athlon(tm) XP 2500+	1x 1792,00 MHz	27,00	
+AMD Sempron(tm) Processor 3000+	1x 1800,00 MHz	18,00	
+AMD Athlon(tm) XP 2200+	1x 1782,00 MHz	22,00	
+Intel(R) Pentium(R) 4 CPU 3.06GHz	2x 3065,00 MHz	7,00	
+AMD Processor model unknown	2x 3006,00 MHz	5,00	
+AMD Turion(tm) 64 X2 Mobile Technology TL-62	2x 800,00 MHz	7,00	
+
+FPU trazado de rayos
+--------------------
+
+-FPU Raytracing-
+13th Gen Intel(R) Core(TM) i9-13900KF	4x 2995,00 MHz	2,03	
+Intel(R) Core(TM) Duo CPUT2450@ 2.00GHz	2x 2000,00 MHz	28,00	
+AMD Athlon(tm) XP 2200+	1x 1782,00 MHz	29,00	
+Intel(R) Pentium(R) DualCPUT2370@ 1.73GHz	2x 1733,00 MHz	25,00	
+AMD Sempron(tm) Processor 3200+	1x 1000,00 MHz	30,00	
+AMD Athlon(tm) 64 X2 Dual-Core Processor TK-55	2x 800,00 MHz	16,00	
+Intel(R) Core(TM)2 CPU6600@ 2.40GHz	2x 2000,00 MHz	11,00	
+Intel(R) Core(TM)2 Duo CPU T5270@ 1.40GHz	2x 1000,00 MHz	32,00	
+AMD Athlon(tm) 64 X2 Dual-Core Processor TK-53	2x 800,00 MHz	18,00	
+Intel(R) Pentium(R) M processor 1.86GHz	1x 1867,00 MHz	28,00	
+Intel(R) Core(TM)2 Duo CPU T5750@ 2.00GHz	2x 1994,00 MHz	16,00	
+AMD Turion(tm) 64 Mobile Technology ML-32	1x 800,00 MHz	28,00	
+Intel(R) Celeron(R) CPU530@ 1.73GHz	1x 2593,00 MHz	17,00	
+Intel(R) Core(TM) i7 CPU 920@ 2.67GHz	8x 3799,00 MHz	4,00	
+Intel(R) Core(TM)2 Quad CPUQ9650@ 3.00GHz	4x 2997,00 MHz	18,00	
+AMD Turion(tm) 64 Mobile Technology MK-36	1x 800,00 MHz	30,00	
+Intel(R) Pentium(R) D CPU 3.40GHz	2x 3000,00 MHz	25,00	
+AMD Athlon(tm) X2 Dual-Core QL-60	2x 1900,00 MHz	18,00	
+Intel(R) Pentium(R) III CPU - S 1400MHz	1x 1392,00 MHz	33,00	
+AMD Phenom(tm) II X4 20 Processor	4x 3654,00 MHz	13,00	
+Intel(R) Core(TM)2 CPU E8400@ 3.00GHz	2x 3000,00 MHz	15,00	
+Intel(R) Pentium(R) 4 CPU 2.66GHz	1x 2676,00 MHz	32,00	
+Intel(R) Pentium(R) 4 CPU 2.60GHz	2x 2600,00 MHz	57,00	
+Intel(R) Core(TM)2 Duo CPU P9500@ 2.53GHz	2x 2535,00 MHz	5,00	
+Intel(R) Celeron(R) M processor900MHz	1x 900,00 MHz	64,00	
+AMD Athlon(tm) 64 X2 Dual Core Processor 4800+	2x 2512,00 MHz	12,00	
+Intel(R) Pentium(R) M processor 1.73GHz	1x 1000,00 MHz	27,00	
+Genuine Intel(R) CPU T2080@ 1.73GHz	2x 1000,00 MHz	31,00	
+AMD Athlon(tm) 64 Processor 4000+	1x 1000,00 MHz	20,00	
+Intel(R) Pentium(R) 4 CPU 2.53GHz	1x 2525,00 MHz	36,00	
+Intel(R) Celeron(R) CPU560@ 2.13GHz	1x 2128,00 MHz	21,00	
+Intel(R) Core(TM)2 Extreme CPU X7900@ 2.80GHz	2x 2800,00 MHz	18,00	
+Intel(R) Core(TM)2 Duo CPU T9400@ 2.53GHz	2x 2000,00 MHz	5,00	
+AMD Athlon(tm) 64 X2 Dual Core Processor 6400+	2x 1000,00 MHz	10,00	
+Intel(R) Celeron(R) M CPU420@ 1.60GHz	1x 1599,00 MHz	36,00	
+Intel(R) Xeon(R) CPU E5405@ 2.00GHz	2x 1995,00 MHz	17,00	
+Genuine Intel(R) CPU2140@ 1.60GHz	2x 1595,00 MHz	22,00	
+Intel(R) Pentium(R) M processor 1700MHz	1x 1700,00 MHz	27,00	
+Pentium II (Deschutes)	1x 401,00 MHz	124,00	
+Intel(R) Core(TM)2 Duo CPU T8100@ 2.10GHz	2x 2094,00 MHz	23,00	
+Intel(R) Core(TM)2 CPU4300@ 1.80GHz	2x 1200,00 MHz	18,00	
+AMD Athlon(tm) XP 3000+	1x 2158,00 MHz	23,00	
+AMD Phenom(tm) 8450 Triple-Core Processor	3x 1100,00 MHz	18,00	
+Intel(R) Core(TM)2 Duo CPU P8400@ 2.26GHz	2x 2000,00 MHz	12,00	
+AMD Athlon(tm) XP 1800+	1x 1540,00 MHz	31,00	
+Intel(R) Celeron(R) CPU550@ 2.00GHz	1x 1995,00 MHz	23,00	
+Intel(R) Pentium(R) 4 CPU 3.20GHz	2x 3000,00 MHz	31,00	
+Intel(R) Pentium(R) M processor 1.80GHz	1x 1000,00 MHz	27,00	
+Intel(R) Celeron(R) CPU 2.80GHz	1x 2793,00 MHz	81,00	
+Genuine Intel(R) CPU T1350@ 1.86GHz	1x 1867,00 MHz	222,00	
+Intel(R) Pentium(R) 4 CPU 2.80GHz	1x 2791,00 MHz	28,00	
+PowerPC 740/750	1x 280,00 MHz	161,00	
+
+GPU dibujado
+------------
+
+-GPU Drawing-
